@@ -1,15 +1,1 @@
-Hi there 👋
-                                                               About me
-
- I am Vedhas Patil from Mumbai, India.
-🔭 I’m currently pursuing my Master of Computer Application (MCA).
-🌱 I’m currently learning Full-Stack Development, 3D modeling, ML and IOT.
-👯 I’m looking to collaborate on Open-source Projects.
-💬 Ask me about Web Devlopment, Ml & IOT Technologies.
-                                                               Languages and Tools
-
-python javascript ml ai data science html  iot vscode pycharm
-
-I am Into ,
-
-Web, Ml & IOT
+This is a repository specifically created for all of my Machine Learning and Deep Learning projects. You'll find models trained on various Classification, Regression as well as Deep Learning methods, such as Naive Bayes, Decision Tree, Linear Regression and last but not the least, Neural Networks.
